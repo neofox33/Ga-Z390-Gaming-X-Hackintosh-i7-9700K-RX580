@@ -1,0 +1,1 @@
+# Ga-Z390-Gaming-X-Hackintosh-i7-9700K-RX580
