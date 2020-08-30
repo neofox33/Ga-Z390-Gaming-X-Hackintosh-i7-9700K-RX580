@@ -2,7 +2,7 @@
 
 ## Hardhare Description
   
-|   |  PP |
+
 | ------------ | ------------ |
 | MOBO | Gigabyte Z390 gaming X  |
 | CPU |  I7-9700K |
