@@ -1,8 +1,8 @@
 # Hackintosh
 
-## Hardhare Description
+## Hardhare
   
-
+|   |  Description |
 | ------------ | ------------ |
 | MOBO | Gigabyte Z390 gaming X  |
 | CPU |  I7-9700K |
