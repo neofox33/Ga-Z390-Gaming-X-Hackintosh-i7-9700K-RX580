@@ -13,7 +13,7 @@
 
 ##
 ![](./screenshot/1.png)
-![](./screenshot/2.png)
+![](./screenshot/22.png)
 
 ## OS Ver.
 macOS Catalina 10.15.6
