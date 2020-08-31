@@ -16,7 +16,7 @@
 ![](./screenshot/12.png)
 
 ## OS Ver.
-macOS Catalina 10.15.6
+macOS Catalina 10.15.6 (19G2021)
 
 ## BIOS
 - F10G
