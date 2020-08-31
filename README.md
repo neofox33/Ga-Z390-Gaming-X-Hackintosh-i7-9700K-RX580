@@ -1,6 +1,6 @@
 # Hackintosh
 
-## Hardhare
+## Hardware
   
 |   |  Description |
 | ------------ | ------------ |
