@@ -20,4 +20,4 @@ macOS Catalina 10.15.6
 
 ## BIOS
 - F10G
-In my case, modify the value of "Package Power Limit - TDP (Watts) in 95" to prevent the exsesive temp by requiring the CPU
+- In my case, modify the value of "Package Power Limit - TDP (Watts) in 95" to prevent the exsesive temp by requiring the CPU
